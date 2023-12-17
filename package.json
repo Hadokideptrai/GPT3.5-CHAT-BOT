@@ -1,0 +1,22 @@
+{
+  "name": "gpt-3.5-chat-bot",
+  "version": "1.0.0",
+  "description": "Hế lô mn hum nay mình làm soucre bot discotd gpt nhé đây là video đầu tiên của  mình có sai sót gì mong mọi nguoiwf  thông cảm ạ bây h các bạn làm theo như mình nhé  mông các bạn đnăg kí kênh ủng hộ mình với nhưé cod js nhé leenh npm init npm install discord.js openai minh xin che key open lai nhe gans token bot cua ban vo nua la xong nha nho la cai node nua nha",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
+    "yarn": "^1.22.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
